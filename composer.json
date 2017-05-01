@@ -1,0 +1,14 @@
+{
+    "name": "gumoon/phplib",
+    "description": "a php framework code by gumoon.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "huliang",
+            "email": "huliang9033@gmail.com"
+        }
+    ],
+    "require": {
+    	"monolog/monolog": "1.0.*"
+    }
+}
